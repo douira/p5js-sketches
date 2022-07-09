@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["es6"]
+  },
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "/Users/christopher/.vscode/extensions/samplavigne.p5-vscode-1.2.11/p5types/global.d.ts"
+  ]
+}
